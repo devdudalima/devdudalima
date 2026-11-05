@@ -5,13 +5,19 @@
 <h4 data-importer="text" align="center">Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou aprendendo programação e criando projetos e buscando sempre aprender coisas novas e evoluir na área. 🚀</h4>
 
 <div align="center">
-  <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
+  <img src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" width="300" align="middle" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=devdudalima&locale=pt-br&mode=daily&theme=jolly&hide_border=true&border_radius=32" height="150" align="middle" />
 </div>
 
 
 ###
 
-###
+<div align="center">
+  <samp>
+  <h4 align="center">🛠️ Tecnologias & Ferramentas</h4>
+  </samp>
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
@@ -27,6 +33,10 @@
 
 ###
 
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/devdudalima/devdudalima/snake-output/snake.svg" alt="Snake animation" />
+
 <div align="center">
   <samp>
     <b>
@@ -41,11 +51,3 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/maria-eduarda-9606a4426/)
   
 </div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/devdudalima/devdudalima/snake-output/snake.svg" alt="Snake animation" />
-
-###
