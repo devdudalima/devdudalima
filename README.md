@@ -2,14 +2,14 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=devdudalima&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=32" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/devdudalima/devdudalima/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<h4 data-importer="text" align="center">Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou aprendendo programação e criando projetos e buscando sempre aprender coisas novas e evoluir na área. 🚀</h4>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://imgflip.com/i/b55e4y"  />
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=devdudalima&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=32" height="150" alt="streak graph" /> <br>
+  <img src="https://raw.githubusercontent.com/devdudalima/devdudalima/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
 ###
 
@@ -24,6 +24,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
 </div>
+
+###
+
+<img data-importer="image" align="right" height="150" src="https://imgflip.com/i/b55e4y"  />
 
 ###
 
